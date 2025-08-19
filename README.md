@@ -1,4 +1,2 @@
-# fundamentos-cotil
-Material da aula de Fundamentos de Informática
-
-#Ensinando Codespaces
+# Meu Projeto de Fundamentos de Informática
+Este repositório contém os exercícios e anotações da disciplina.
