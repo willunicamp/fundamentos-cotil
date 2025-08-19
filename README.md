@@ -16,7 +16,7 @@ Aqui você encontrará:
 
 Um hello world em C, para mostrar **bloco de código**.
 
-```
+```C
 #include <stdio.h>
 
 int main(){
